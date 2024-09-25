@@ -3,9 +3,9 @@
     {
       "slug": "urban-drift-bucket-hat",
       "name": "Urban Drift Bucket Hat",
-      "color": "black",
+      "color": ["black"],
       "price": 18,
-      "sold": 14,
+      "rating": 4.5,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/urban-drift-bucket-hat/urban-drift-bucket-hat-1.jpg",
       "description": "Navigate the urban jungle with our Urban Drift Bucket Hat. It's not only trendy but also practical, offering shade from the hustle and bustle.",
       "collection": "casual",
@@ -31,9 +31,9 @@
     {
       "slug": "tangerine-mini-tote",
       "name": "Tangerine Mini Tote",
-      "color": "orange",
+      "color": ["orange", "beige"],
       "price": 25,
-      "sold": 22,
+      "rating": 2.2,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/tangerine-mini-tote/tangerine-mini-tote-1.jpg",
       "description": "Carry a pop of color with our Tangerine Mini Tote. Compact and vibrant, it's the perfect accessory for the fashion-forward minimalist.",
       "collection": "casual",
@@ -58,9 +58,9 @@
     {
       "slug": "elemental-sneakers",
       "name": "Elemental Sneakers",
-      "color": "beige",
+      "color": ["brown", "beige"],
       "price": 32,
-      "sold": 24,
+      "rating": 4.4,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/elemental-sneakers/elemental-sneakers-1.jpg",
       "description": "Ground your steps in style with our Elemental Sneakers. Designed with the elements in mind, they bring a natural balance to your stride and your ensemble.",
       "collection": "casual",
@@ -86,9 +86,9 @@
     {
       "slug": "metro-hoodie",
       "name": "Metro Hoodie",
-      "color": "black",
+      "color": ["black"],
       "price": 15,
-      "sold": 12,
+      "rating": 5,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/metro-hoodie/metro-hoodie-1.jpg",
       "description": "The Metro Hoodie is your ticket to comfortable, laid-back fashion. Whether you're on the move or taking it easy, this hoodie has got you covered.",
       "collection": "formal",
@@ -114,9 +114,9 @@
     {
       "slug": "sunbeam-mules",
       "name": "Sunbeam Mules",
-      "color": "yellow",
+      "color": ["brown", "beige", "yellow"],
       "price": 105,
-      "sold": 98,
+      "rating": 4.7,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/sunbeam-mules/sunbeam-mules-1.jpg",
       "description": "Let your feet bask in the glow of our Sunbeam Mules. With their radiant style and effortless slip-on design, they're sunshine for your step.",
       "collection": "formal",
@@ -141,9 +141,9 @@
     {
       "slug": "azure-attitude-shades",
       "name": "Azure Attitude Shades",
-      "color": "blue",
+      "color": ["brown", "beige", "blue"],
       "price": 125,
-      "sold": 102,
+      "rating": 3.5,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/azure-attitude-shades/azure-attitude-shades-1.jpg",
       "description": "Step out in style with our Azure Attitude Shades, featuring a bold blue tint and modern design. These sunglasses are not just an accessory but a statement of confidence.",
       "collection": "formal",
@@ -168,9 +168,9 @@
     {
       "slug": "voyager-hoodie",
       "name": "Voyager Hoodie",
-      "color": "green",
+      "color": ["brown", "green"],
       "price": 175,
-      "sold": 104,
+      "rating": 4.7,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/voyager-hoodie/voyager-hoodie-1.jpg",
       "description": "The Voyager Hoodie is for the explorer at heart. Its durable fabric and roomy pockets are perfect for those who are always searching for the next adventure.",
       "collection": "party",
@@ -196,9 +196,9 @@
     {
       "slug": "la-baseball-hat",
       "name": "LA Baseball Hat",
-      "color": "black",
+      "color": ["black"],
       "price": 43,
-      "sold": 17,
+      "rating": 2.8,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/la-baseball-hat/la-baseball-hat-1.jpg",
       "description": "Shield your eyes and show your style with our LA Baseball Hat. It's not just a nod to the city of angels but a capstone for any casual outfit.",
       "collection": "party",
@@ -226,7 +226,7 @@
       "name": "Classic Canvas Tee",
       "color": ["brown", "beige"],
       "price": 15,
-      "sold": 14,
+      "rating": 4.3,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/classic-canvas-tee/classic-canvas-tee-1.jpg",
       "description": "The Classic Canvas Tee is your go-to wardrobe staple, offering unparalleled comfort and a timeless look that never goes out of style.",
       "collection": "party",
@@ -252,9 +252,9 @@
     {
       "slug": "cool-neo-retro-shoes",
       "name": "Cool Neo-Retro Shoes",
-      "color": "white",
+      "color": ["white"],
       "price": 215,
-      "sold": 194,
+      "rating": 4.9,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/cool-neo-retro-shoes/cool-netro-retro-shoes-1.jpg",
       "description": "Merge past and present with our Cool Neo-Retro Shoes. Their classic silhouette with modern twists will have you walking with a foot in each era.",
       "collection": "gym",
@@ -280,9 +280,9 @@
     {
       "slug": "cute-banana-socks",
       "name": "Cute Banana Socks",
-      "color": "white",
+      "color": ["yellow", "beige"],
       "price": 32,
-      "sold": 28,
+      "rating": 2.8,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/cute-banana-socks/cute-banana-socks-1.jpg",
       "description": "Ground your steps in style with our Elemental Sneakers. Designed with the elements in mind, they bring a natural balance to your stride and your ensemble.",
       "collection": "gym",
@@ -308,9 +308,9 @@
     {
       "slug": "harvest-cozy-turtleneck",
       "name": "harvest Cozy Turtleneck",
-      "color": "beige",
+      "color": ["brown", "beige"],
       "price": 52,
-      "sold": 44,
+      "rating": 3.4,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/harvest-cozy-turtleneck/harvest-cozy-turtleneck-1.jpg",
       "description": "Ground your steps in style with our Elemental Sneakers. Designed with the elements in mind, they bring a natural balance to your stride and your ensemble.",
       "collection": "gym",
@@ -368,7 +368,7 @@
     {
       "product_id": "urban-drift-bucket-hat",
       "author": "dante lancaster",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "A bit pricey, but the quality justifies the cost. Very comfortable.",
       "created_at": "2024-04-22"
@@ -384,7 +384,7 @@
     {
       "product_id": "urban-drift-bucket-hat",
       "author": "keith mcneil",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "The texture and color of this knitwear make it a standout piece in my wardrobe.",
       "created_at": "2024-03-15"
@@ -400,7 +400,7 @@
     {
       "product_id": "urban-drift-bucket-hat",
       "author": "pat barrett",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Love the warmth and style of this knitwear, perfect for fall weather.",
       "created_at": "2024-04-21"
@@ -408,7 +408,7 @@
     {
       "product_id": "urban-drift-bucket-hat",
       "author": "sonja fuentes",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "So cozy and warm, the quality is top-notch. A great buy for the colder months.",
       "created_at": "2024-03-14"
@@ -424,7 +424,7 @@
     {
       "product_id": "urban-drift-bucket-hat",
       "author": "tristan howe",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Nice design but the material is a bit itchy on sensitive skin.",
       "created_at": "2024-02-13"
@@ -432,7 +432,7 @@
     {
       "product_id": "tangerine-mini-tote",
       "author": "murray rivers",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Stylish and effective, these sunglasses really stand out.",
       "created_at": "2024-05-05"
@@ -440,7 +440,7 @@
     {
       "product_id": "tangerine-mini-tote",
       "author": "tatiana moses",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Look great but feel a bit flimsy.",
       "created_at": "2024-06-05"
@@ -448,7 +448,7 @@
     {
       "product_id": "tangerine-mini-tote",
       "author": "brenton mosley",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Great UV protection and very stylish, but the fit is a bit loose.",
       "created_at": "2024-05-21"
@@ -456,7 +456,7 @@
     {
       "product_id": "tangerine-mini-tote",
       "author": "emory bridges",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Chic shades but the lenses scratch too easily.",
       "created_at": "2024-05-22"
@@ -472,7 +472,7 @@
     {
       "product_id": "elemental-sneakers",
       "author": "jordyn winters",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Nice shirt, but I found the fit a bit too snug for my liking.",
       "created_at": "2024-03-12"
@@ -488,7 +488,7 @@
     {
       "product_id": "elemental-sneakers",
       "author": "mikaela stark",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Perfect tee for daily wear, soft material and holds up well.",
       "created_at": "2024-02-08"
@@ -496,7 +496,7 @@
     {
       "product_id": "elemental-sneakers",
       "author": "vaughn stokes",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Decent quality but the color faded faster than expected.",
       "created_at": "2024-02-07"
@@ -512,7 +512,7 @@
     {
       "product_id": "elemental-sneakers",
       "author": "alison mathis",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Very soft and comfortable, my new favorite tee.",
       "created_at": "2024-04-26"
@@ -528,7 +528,7 @@
     {
       "product_id": "metro-hoodie",
       "author": "sage benjamin",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Good shirt, but the fit is a bit loose.",
       "created_at": "2024-04-28"
@@ -536,7 +536,7 @@
     {
       "product_id": "metro-hoodie",
       "author": "staci foreman",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Vibrant colors that have lasted well through many washes.",
       "created_at": "2024-05-13"
@@ -544,7 +544,7 @@
     {
       "product_id": "metro-hoodie",
       "author": "wilme -le",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Comfortable but the fabric is a bit thin for my liking.",
       "created_at": "2024-05-14"
@@ -552,7 +552,7 @@
     {
       "product_id": "sunbeam-mules",
       "author": "staci foreman",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "These are the coolest shoes, got so many compliments!",
       "created_at": "2024-04-29"
@@ -560,7 +560,7 @@
     {
       "product_id": "sunbeam-mules",
       "author": "wilmer le",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Nice style but not very comfortable for long periods.",
       "created_at": "2024-04-15"
@@ -568,7 +568,7 @@
     {
       "product_id": "sunbeam-mules",
       "author": "gilbert stanley",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Absolutely love these shoes, they are a total throwback with modern comfort.",
       "created_at": "2024-05-15"
@@ -592,7 +592,7 @@
     {
       "product_id": "azure-attitude-shades",
       "author": "clara hendrix",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Cute socks, but they thin out pretty fast.",
       "created_at": "2024-02-05"
@@ -600,7 +600,7 @@
     {
       "product_id": "azure-attitude-shades",
       "author": "lana rosario",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Super cute and fun! They brighten up my everyday outfits.",
       "created_at": "2024-05-17"
@@ -608,7 +608,7 @@
     {
       "product_id": "azure-attitude-shades",
       "author": "ike blackburn",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Good for a laugh but not the best quality, wore through quickly.",
       "created_at": "2024-05-18"
@@ -616,7 +616,7 @@
     {
       "product_id": "voyager-hoodie",
       "author": "pat barrett",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "These sneakers are not only stylish but incredibly comfortable for all-day wear.",
       "created_at": "2024-03-11"
@@ -624,7 +624,7 @@
     {
       "product_id": "voyager-hoodie",
       "author": "dante lancaster",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Good value for money, and they look great with casual attire.",
       "created_at": "2024-03-10"
@@ -632,7 +632,7 @@
     {
       "product_id": "voyager-hoodie",
       "author": "alicia shepard",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Great for casual walks, stylish and feels very light on the feet.",
       "created_at": "2024-02-06"
@@ -680,7 +680,7 @@
     {
       "product_id": "la-baseball-hat",
       "author": "fidelia dyer",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Keeps me warm without being too bulky, though the neck is a little tight.",
       "created_at": "2024-02-02"
@@ -696,7 +696,7 @@
     {
       "product_id": "la-baseball-hat",
       "author": "erwin case",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Fantastic quality, it's my go-to sweater for cold days.",
       "created_at": "2024-04-29"
@@ -744,7 +744,7 @@
     {
       "product_id": "classic-canvas-tee",
       "author": "justine simard",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Super cozy and the fit is just right, great for casual wear.",
       "created_at": "2024-01-20"
@@ -752,7 +752,7 @@
     {
       "product_id": "classic-canvas-tee",
       "author": "skyler orr",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Thick material that feels built to last. A bit pricey but worth it.",
       "created_at": "2024-01-19"
@@ -768,7 +768,7 @@
     {
       "product_id": "classic-canvas-tee",
       "author": "sage benjamin",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Good hoodie, but the material pills after several washes.",
       "created_at": "2024-05-12"
@@ -784,7 +784,7 @@
     {
       "product_id": "classic-canvas-tee",
       "author": "staci foreman",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Looks good but the fabric feels a bit stiff.",
       "created_at": "2024-01-21"
@@ -880,7 +880,7 @@
     {
       "product_id": "cute-banana-socks",
       "author": "chadwick stanton",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Chic and vibrant, gets compliments everywhere I go.",
       "created_at": "2024-01-25"
@@ -888,7 +888,7 @@
     {
       "product_id": "cute-banana-socks",
       "author": "ismael maxwell",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Perfect size for essentials, and the tangerine color is gorgeous.",
       "created_at": "2024-05-05"
@@ -896,7 +896,7 @@
     {
       "product_id": "cute-banana-socks",
       "author": "zaria ross",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Chic and practical, though the material could be sturdier.",
       "created_at": "2024-05-06"
@@ -904,7 +904,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "kimberly mastrangelo",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Perfect fit and excellent wind resistance, highly recommend.",
       "created_at": "2024-01-23"
@@ -912,7 +912,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "mariam whitaker",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "This jacket has become my go-to piece for chilly mornings, very well made.",
       "created_at": "2024-01-24"
@@ -920,7 +920,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "rosalie ho",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Excellent jacket, keeps me warm and fits perfectly.",
       "created_at": "2024-05-07"
@@ -928,7 +928,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "lilia mcknight",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "I've worn it everywhere, super durable and fashionable.",
       "created_at": "2024-05-26"
@@ -936,7 +936,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "natali craig",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "I love the comfortable fit and stylish look of this hoodie. Perfect for chilly days out!",
       "created_at": "2024-03-11"
@@ -944,7 +944,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "kimberly mastrangelo",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Absolutely a must-have for anyone who enjoys outdoor activities. Keeps me warm and looks great!",
       "created_at": "2024-03-10"
@@ -952,7 +952,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "lorri warf",
-      "rating": 5,
+      "rating": 3,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Good hoodie but the color was a bit different from what I expected. Still, it's very practical.",
       "created_at": "2024-03-09"
@@ -960,7 +960,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "darren holmes",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": null,
       "created_at": "2024-03-08"
@@ -968,7 +968,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "justine simard",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Stylish and functional, this hoodie has become my go-to for chilly beach nights.",
       "created_at": "2024-03-07"
@@ -976,7 +976,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "emilio vega",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Fantastic hoodie, offers great insulation and doesn’t sacrifice style.",
       "created_at": "2024-03-06"
@@ -984,7 +984,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "chadwick stanton",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Really like the soft material and the lightweight feel, though it snags easily.",
       "created_at": "2024-03-05"
@@ -992,7 +992,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "mariam whitaker",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "It's okay, serves its purpose but I wish the material was a bit softer.",
       "created_at": "2024-03-04"
@@ -1000,7 +1000,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "mila rich",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "This is the best hoodie I've purchased in a while – perfect for chilly days!",
       "created_at": "2024-03-03"
@@ -1008,7 +1008,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "harris cullen",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Great quality, though a bit pricey. Still, I find it worth the cost for its durability.",
       "created_at": "2024-03-02"
@@ -1016,7 +1016,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "helen norton",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Chic and practical, exactly what I needed for my winter wardrobe.",
       "created_at": "2024-03-02"
@@ -1024,7 +1024,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "alison mathis",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Superb quality, fits perfectly and is incredibly warm.",
       "created_at": "2024-03-01"
@@ -1032,7 +1032,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "gemma dotson",
-      "rating": 5,
+      "rating": 2,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Love it! It fits well, looks stylish, and keeps me warm.",
       "created_at": "2024-03-01"
@@ -1040,7 +1040,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "donnie monroe",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Not bad but the fit was a little tight.",
       "created_at": "2024-02-28"
@@ -1048,7 +1048,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "kerry love",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Absolutely perfect! I wear it everywhere I go.",
       "created_at": "2024-02-27"
@@ -1056,7 +1056,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "erwin case",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Good hoodie, but I wish there were more color options.",
       "created_at": "2024-02-26"
@@ -1064,7 +1064,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "elise shannon",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Love the fabric, very breathable during cooler days.",
       "created_at": "2024-02-25"
@@ -1072,7 +1072,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "keenan potts",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "The style is nice, but it didn’t hold up well after washing.",
       "created_at": "2024-02-24"
@@ -1080,7 +1080,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "bonita woodward",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Stylish and practical, though a bit pricey.",
       "created_at": "2024-02-23"
@@ -1088,7 +1088,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "desiree leblanc",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "My go-to hoodie now for outdoor activities, highly recommend.",
       "created_at": "2024-02-22"
@@ -1096,7 +1096,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "darnell hardin",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Looks good but the material feels a bit cheap.",
       "created_at": "2024-02-21"
@@ -1104,7 +1104,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "ismael maxwell",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Excellent hoodie, great for both rain and shine.",
       "created_at": "2024-02-20"
@@ -1112,7 +1112,7 @@
     {
       "product_id": "harvest-cozy-turtleneck",
       "author": "zaria ross",
-      "rating": 5,
+      "rating": 4,
       "image_rating": "https://res.cloudinary.com/dqfd5g2fd/image/upload/v1726675280/cinq_vwcrbq.svg",
       "content": "Really nice hoodie, but a little too bulky for my taste.",
       "created_at": "2024-02-19"
