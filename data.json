@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "slug": "urban-drift-bucket-hat",
+      "id": 1,
       "product_id": "urban-drift-bucket-hat",
       "name": "Urban Drift Bucket Hat",
       "color": ["black"],
@@ -31,7 +31,7 @@
     },
 
     {
-      "slug": "tangerine-mini-tote",
+      "id": 2,
       "product_id": "tangerine-mini-tote",
       "name": "Tangerine Mini Tote",
       "color": ["orange", "beige"],
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "slug": "elemental-sneakers",
+      "id": 3,
       "product_id": "elemental-sneakers",
       "name": "Elemental Sneakers",
       "color": ["brown", "beige"],
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "slug": "metro-hoodie",
+      "id": 4,
       "product_id": "metro-hoodie",
       "name": "Metro Hoodie",
       "color": ["black"],
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "slug": "sunbeam-mules",
+      "id": 5,
       "product_id": "sunbeam-mules",
       "name": "Sunbeam Mules",
       "color": ["brown", "beige", "yellow"],
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "slug": "azure-attitude-shades",
+      "id": 6,
       "product_id": "azure-attitude-shades",
       "name": "Azure Attitude Shades",
       "color": ["brown", "beige", "blue"],
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "slug": "voyager-hoodie",
+      "id": 7,
       "product_id": "voyager-hoodie",
       "name": "Voyager Hoodie",
       "color": ["brown", "green"],
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "slug": "la-baseball-hat",
+      "id": 8,
       "product_id": "la-baseball-hat",
       "name": "LA Baseball Hat",
       "color": ["black"],
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "slug": "classic-canvas-tee",
+      "id": 9,
       "product_id": "classic-canvas-tee",
       "name": "Classic Canvas Tee",
       "color": ["brown", "beige"],
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "slug": "cool-neo-retro-shoes",
+      "id": 10,
       "product_id": "cool-neo-retro-shoes",
       "name": "Cool Neo-Retro Shoes",
       "color": ["white"],
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "slug": "cute-banana-socks",
+      "id": 11,
       "product_id": "cute-banana-socks",
       "name": "Cute Banana Socks",
       "color": ["yellow", "beige"],
@@ -318,7 +318,7 @@
       ]
     },
     {
-      "slug": "harvest-cozy-turtleneck",
+      "id": 12,
       "product_id": "harvest-cozy-turtleneck",
       "name": "harvest Cozy Turtleneck",
       "color": ["brown", "beige"],
