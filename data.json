@@ -9,7 +9,7 @@
       "rate": 4.5,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/urban-drift-bucket-hat/urban-drift-bucket-hat-1.jpg",
       "description": "Navigate the urban jungle with our Urban Drift Bucket Hat. It's not only trendy but also practical, offering shade from the hustle and bustle.",
-      "collections": "urban",
+      "collection": "urban",
       "features": [
         "Made from durable, lightweight fabric.",
         "Wide brim offers excellent sun protection.",
@@ -39,7 +39,7 @@
       "rate": 2.2,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/tangerine-mini-tote/tangerine-mini-tote-1.jpg",
       "description": "Carry a pop of color with our Tangerine Mini Tote. Compact and vibrant, it's the perfect accessory for the fashion-forward minimalist.",
-      "collections": "urban",
+      "collection": "urban",
       "features": [
         "Compact design is perfect for daily essentials.",
         "Durable construction handles everyday use.",
@@ -67,7 +67,7 @@
       "rate": 4.4,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/elemental-sneakers/elemental-sneakers-1.jpg",
       "description": "Ground your steps in style with our Elemental Sneakers. Designed with the elements in mind, they bring a natural balance to your stride and your ensemble.",
-      "collections": "urban",
+      "collection": "urban",
       "features": [
         "Eco-friendly materials throughout, supporting sustainable manufacturing practices.",
         "Innovative sole design provides enhanced grip and stability.",
@@ -96,7 +96,7 @@
       "rate": 5,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/metro-hoodie/metro-hoodie-1.jpg",
       "description": "The Metro Hoodie is your ticket to comfortable, laid-back fashion. Whether you're on the move or taking it easy, this hoodie has got you covered.",
-      "collections": "cozy",
+      "collection": "cozy",
       "features": [
         "Made from a soft, sustainable fabric blend.",
         "Features a drawstring hood and large front pocket.",
@@ -125,7 +125,7 @@
       "rate": 4.7,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/sunbeam-mules/sunbeam-mules-1.jpg",
       "description": "Let your feet bask in the glow of our Sunbeam Mules. With their radiant style and effortless slip-on design, they're sunshine for your step.",
-      "collections": "cozy",
+      "collection": "cozy",
       "features": [
         "Slip-on style offers convenience and comfort.",
         "Lightweight design perfect for casual wear.",
@@ -153,7 +153,7 @@
       "rate": 3.5,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/azure-attitude-shades/azure-attitude-shades-1.jpg",
       "description": "Step out in style with our Azure Attitude Shades, featuring a bold blue tint and modern design. These sunglasses are not just an accessory but a statement of confidence.",
-      "collections": "cozy",
+      "collection": "cozy",
       "features": [
         "UV400 protection to shield eyes from harmful rays.",
         "Lightweight frames crafted from recycled plastics.",
@@ -181,7 +181,7 @@
       "rate": 4.7,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/voyager-hoodie/voyager-hoodie-1.jpg",
       "description": "The Voyager Hoodie is for the explorer at heart. Its durable fabric and roomy pockets are perfect for those who are always searching for the next adventure.",
-      "collections": "fresh",
+      "collection": "fresh",
       "features": [
         "Designed for comfort and durability.",
         "Soft, breathable fabric ideal for travel and adventure.",
@@ -210,7 +210,7 @@
       "rate": 2.8,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/la-baseball-hat/la-baseball-hat-1.jpg",
       "description": "Shield your eyes and show your style with our LA Baseball Hat. It's not just a nod to the city of angels but a capstone for any casual outfit.",
-      "collections": "fresh",
+      "collection": "fresh",
       "features": [
         "Constructed with lightweight, breathable fabric.",
         "Adjustable strap for a custom fit.",
@@ -239,7 +239,7 @@
       "rate": 4.3,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/classic-canvas-tee/classic-canvas-tee-1.jpg",
       "description": "The Classic Canvas Tee is your go-to wardrobe staple, offering unparalleled comfort and a timeless look that never goes out of style.",
-      "collections": "fresh",
+      "collection": "fresh",
       "features": [
         "Made from 100% organic cotton for softness and sustainability.",
         "Tag-free neck label for added comfort.",
@@ -268,7 +268,7 @@
       "rate": 4.9,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/cool-neo-retro-shoes/cool-netro-retro-shoes-1.jpg",
       "description": "Merge past and present with our Cool Neo-Retro Shoes. Their classic silhouette with modern twists will have you walking with a foot in each era.",
-      "collections": "fresh",
+      "collection": "fresh",
       "features": [
         "Combines retro design with modern technology for ultimate comfort and style.",
         "Lightweight construction with breathable materials.",
@@ -297,7 +297,7 @@
       "rate": 2.8,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/cute-banana-socks/cute-banana-socks-1.jpg",
       "description": "Ground your steps in style with our Elemental Sneakers. Designed with the elements in mind, they bring a natural balance to your stride and your ensemble.",
-      "collections": "urban",
+      "collection": "urban",
       "features": [
         "Made with organic cotton and a hint of stretch for comfort.",
         "Adorable banana print perfect for adding a playful touch to any outfit.",
@@ -326,7 +326,7 @@
       "rate": 3.4,
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/harvest-cozy-turtleneck/harvest-cozy-turtleneck-1.jpg",
       "description": "Ground your steps in style with our Elemental Sneakers. Designed with the elements in mind, they bring a natural balance to your stride and your ensemble.",
-      "collections": "cozy",
+      "collection": "cozy",
       "features": [
         "Luxuriously soft cashmere blend provides warmth without bulk.",
         "Turtleneck design offers extra warmth and style.",
@@ -349,21 +349,21 @@
   ],
   "collections": [
     {
-      "collections": "cozy",
+      "collection": "cozy",
       "name": "Cozy Comfort",
       "description": "Plush fabrics and soothing designs",
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/collections/cozy-comfort.jpg",
       "created_at": "2024-01-01"
     },
     {
-      "collections": "urban",
+      "collection": "urban",
       "name": "Urban Oasis",
       "description": "For the city dwellers",
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/collections/urban-oasis.jpg",
       "created_at": "2024-01-01"
     },
     {
-      "collections": "fresh",
+      "collection": "fresh",
       "name": "Fresh Fusion",
       "description": "Contemporary styles and patterns",
       "image_url": "https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/e-commerce-track-images/collections/fresh-fusion.jpg",
